@@ -1,2 +1,2 @@
-# responsive
-A responsive project optimized 
+# batata-bit
+Cryptocurrency landing page project 
